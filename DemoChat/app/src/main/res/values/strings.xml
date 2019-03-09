@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">DemoChat</string>
+
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="forgot_password">¿Olvido su contraseña?</string>
+    <string name="confirm_pass">Confirme contraseña</string>
+    <string name="restore_password">Restablecer Contraseña</string>
+    <string name="complete_your_data">Por favor ingrese sus datos</string>
+    <string name="pass_not_match">Las contraseñas no coinciden</string>
+    <string name="email_sent">Correo enviado</string>
+    <string name="error_ressetting_pass">Error al restablecer la contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="text_item">Mensaje</string>
+    <string name="cancel">Cancel</string>
+
 </resources>
