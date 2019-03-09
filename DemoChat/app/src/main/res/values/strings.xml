@@ -15,5 +15,6 @@
     <string name="name">Nombre</string>
     <string name="text_item">Mensaje</string>
     <string name="cancel">Cancel</string>
+    <string name="sign_out">Cerrar sessión</string>
 
 </resources>
